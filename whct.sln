@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeUnilinPresse", "CodeUnilinPresse\CodeUnilinPresse.csproj", "{42D691E9-DECE-483B-BBFE-432123B187C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wtct", "wtct\wtct.csproj", "{42D691E9-DECE-483B-BBFE-432123B187C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
